@@ -138,4 +138,6 @@ for each possible digit assignment do if leading letter has value 0 then continu
 convert words and result to numbers
 if sum of word values = result value then
     return valid assignment
+
+    
 return NO SOLUTION
